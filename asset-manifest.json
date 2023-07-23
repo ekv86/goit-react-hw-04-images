@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-images/static/css/main.a4c91e6b.css",
+    "main.js": "/goit-react-hw-04-images/static/js/main.35748e9f.js",
+    "static/media/icon-loupe.png": "/goit-react-hw-04-images/static/media/icon-loupe.c6544d3156a8bde3d076.png",
+    "index.html": "/goit-react-hw-04-images/index.html",
+    "main.a4c91e6b.css.map": "/goit-react-hw-04-images/static/css/main.a4c91e6b.css.map",
+    "main.35748e9f.js.map": "/goit-react-hw-04-images/static/js/main.35748e9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c91e6b.css",
+    "static/js/main.35748e9f.js"
+  ]
+}
